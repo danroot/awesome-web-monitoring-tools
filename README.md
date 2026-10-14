@@ -24,6 +24,7 @@ Hosted dashboards and alerts; no servers to run.
 - [Follow That Page](https://www.followthatpage.com) — Email-based page change alerts with a simple monitored-URL model.
 - [Hexowatch](https://hexowatch.io) — No-code monitors for visual, HTML, technology, and availability-style signals with team alerts.
 - [PageCrawl](https://pagecrawl.io) — Scheduled crawling and change tracking with notifications (verify current plans on site).
+- [PingWhen](https://pingwhen.app) — Hosted URL watch with email (optional SMS/webhook) when a page changes or goes down, plus NHTSA/CPSC recall alerts; agent API + llms.txt (free tier).
 - [Site24x7](https://www.site24x7.com) — Broad monitoring suite including website and RUM; use where **synthetic or content checks** are part of your stack.
 - [StatusCake](https://www.statuscake.com) — Uptime and page-speed checks; pair with custom assertions where the product supports them.
 - [Visualping](https://visualping.io) — Visual and element-level page monitoring with email or Slack-style alerts; common for **pricing and policy pages**.
