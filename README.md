@@ -21,6 +21,7 @@ Hosted dashboards and alerts; no servers to run.
 - [Better Stack (Uptime + Heartbeats)](https://betterstack.com) — Uptime checks, incident workflows, and related observability; useful when change detection pairs with **keyword or content checks** on a schedule.
 - [ChangeTower](https://www.changetower.com) — Monitors public URLs for visual, code, and keyword changes with alerts and history archives.
 - [Distill.io (Web Monitor)](https://distill.io) — Browser extension and cloud monitors for page regions, feeds, and PDFs with change alerts.
+- [Dropify](https://dropify.cloud) — Drop, restock and price alerts for official artist and brand merch stores (free tier covers US stores).
 - [Follow That Page](https://www.followthatpage.com) — Email-based page change alerts with a simple monitored-URL model.
 - [Hexowatch](https://hexowatch.io) — No-code monitors for visual, HTML, technology, and availability-style signals with team alerts.
 - [PageCrawl](https://pagecrawl.io) — Scheduled crawling and change tracking with notifications (verify current plans on site).
