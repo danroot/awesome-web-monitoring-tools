@@ -37,6 +37,7 @@ You operate the instance; data stays on your infra.
 
 - [changedetection.io](https://github.com/dgtlmoon/changedetection.io) — Popular open-source change-detection UI with notifications, filters, and Playwright support on self-host.
 - [Huginn](https://github.com/huginn/huginn) — Self-hosted agent system (“IFTTT for hackers”) for building **custom monitoring and scrape workflows**.
+- [SiteWatcher](https://github.com/NikKurkov/sitewatcher) — Self-hosted website monitoring with scheduled checks for required keywords and known defacement markers.
 - [Uptime Kuma](https://github.com/louislam/uptime-kuma) — Self-hosted status dashboard with HTTP(s), keyword, and many monitor types; strong for **keyword presence** and uptime, not only visual diff.
 
 ---
